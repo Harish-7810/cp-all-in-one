@@ -1,3 +1,4 @@
+go into kraft to build docker-compose.yml file for kafka
 # Confluent Platform All-In-One
 
 This repository contains a set of Docker Compose files for running Confluent Platform. It is organized as follows:
